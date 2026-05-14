@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+beautifulsoup4
+requests
+joblib
+transformers==4.36.2
+datasets==2.16.1
+torch==2.2.2
+pyarrow==14.0.2
+accelerate==0.25.0
